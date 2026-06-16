@@ -30,7 +30,7 @@ export default function RootLayout({ children }) {
               <button className="relative p-2 hover:bg-gray-100 rounded-full transition">
                 🛒
                 <span className="absolute top-0 right-0 bg-red-500 text-white text-xs w-4 h-4 rounded-full flex items-center justify-center">۰</span>
-              </</button>
+              </button>
             </div>
           </div>
         </header>
